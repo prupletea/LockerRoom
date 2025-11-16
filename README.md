@@ -8,7 +8,7 @@ The main idea is to have a unified platform for keeping track of assignments, gr
 Habitica and the fact that I do all of my tracking on Google Sheets. 
 
 ## Technologies used
-Figma; Wolfram|One
+Figma
 
 ## Submition Track
 Make Learning Fun: Gamify the Learning Journey! 👾
