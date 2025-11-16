@@ -1,2 +1,2 @@
 Here is the link to the prototype:
-https://www.figma.com/design/mQpFFoIqLSoZ33jijVZss0/LockerRoom?node-id=0-1&t=2iXFfAjWVzyvwFKw-1 
+https://www.figma.com/proto/mQpFFoIqLSoZ33jijVZss0/LockerRoom?page-id=0%3A1&node-id=1-2&p=f&viewport=337%2C264%2C0.26&t=ibJ6SigLIvJwzAmE-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2
